@@ -1,4 +1,4 @@
-# React Movie App
+# React Movie Search App
 
 Project Live Link: https://meta-movie.netlify.app/
 
